@@ -77,4 +77,9 @@ public class Player : MonoBehaviour {
 
 
 	}
+
+	void Shoot(){
+		//firePoint.origin = transform.position;
+		//firepoint.direction = transform.forward;
+		//if(Physics2D.Raycast(firePoint.origin, forward))
 }
